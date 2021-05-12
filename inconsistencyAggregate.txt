@@ -1,0 +1,10 @@
+Done with Genres. Count: 0
+Done with Movies. Count: 0
+Done with Genres in Movies. Count: 0
+Number of items skipped: 52
+Number of duplicate items: 20921
+
+Done with Actors. Count: 2519
+Number of items skipped: 49
+Number of duplicate items: 4344
+
